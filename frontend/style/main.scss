@@ -1,0 +1,58 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+}
+
+.navbar-brand img {
+    max-height: 40px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #adadad;
+    font-weight: medium;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    font-weight: bold;
+    color: #FED114 !important;
+}
+
+.section-popular {
+    min-height: 540px;
+    background-color: #white;
+    margin-top: -72px;
+    margin-bottom: -230px;
+}
+
+.section-popular .section-popular-heading {
+    margin-top: 150px;
+}
+
+.section-popular .section-popular-heading h4 {
+    color: #black;
+}
+
+.section-popular .section-popular-heading h4 {
+    font-family: 'Montserrat', serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.section-popular img {
+    margin-top: 48px;
+}
+
+.section-popular p {
+    margin-top: 48px;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.justify-content-evenly {
+    margin-top: 89px;
+}
+
+.justify-content-evenly h2 {
+    font-weight: bold;
+}
